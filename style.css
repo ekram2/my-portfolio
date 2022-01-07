@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+h1{
+    border-left: darkcyan;
+    padding-left: 5%;}
+.header{
+    color: rgb(176, 77, 225);
+}
+.left
+p{
+    text-align:justify;}
+  
+.button{
+    height: 35px;
+    width: 90px;
+    border-radius: 7%;
+    background-color:rgb(111, 205, 17);
+    text-decoration: none;
+}
+.page-one{
+    
+    display: flex;
+    
+}
+.photo{
+    height: 550px;
+     
+    }
+.plan{
+    margin-left: 50%;
+}
+.cyan{
+    color: cyan;
+    
+}
+.half{
+    width: 90%;
+    
+}
+
+.coding{
+    height: 400px;
+    
+}
+.limit{ 
+    display: flex;
+    margin-top: 5%;
+ 
+}
+.pera{
+    margin-left: 40%;
+}
+#header2{
+    text-align: center;
+
+}
+
+
+.footer{
+    text-align: center;
+    background-color: rgb(234, 9, 9);
+    height: 55%;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(6, 19, 213);
+}
+
+#card{
+    justify-content:center;
+    margin-left: 2%;
+}
+.card-one{
+    text-align: center;
+}
+.card-two{
+    text-align: center;
+}
+.card-three{
+    text-align: center;
+}
