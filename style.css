@@ -6,17 +6,22 @@ body{
 }
 h1{
     border-left: darkcyan;
-    padding-left: 5%;}
+    padding-left: 5%;
+    border: purple;
+}
 .header{
     color: rgb(176, 77, 225);
 }
 .left
 p{
-    text-align:justify;}
+    text-align:justify;
+    text-align: center;
+}
+    
   
 .button{
-    height: 35px;
-    width: 90px;
+    height: auto;
+    width: auto;
     border-radius: 7%;
     background-color:rgb(111, 205, 17);
     text-decoration: none;
@@ -24,6 +29,7 @@ p{
 .page-one{
     
     display: flex;
+    justify-content: space-between;
     
 }
 .photo{
@@ -56,31 +62,48 @@ p{
 }
 #header2{
     text-align: center;
+    margin-top: 10%;
 
 }
 
 
 .footer{
+    
     text-align: center;
     background-color: rgb(234, 9, 9);
     height: 55%;
 }
 
-.footer{
+.footer{border-top: 20%;
     text-align: center;
     color: rgb(6, 19, 213);
 }
 
 #card{
-    justify-content:center;
-    margin-left: 2%;
+    justify-content: center;
+    display: flex;
+    margin-left: 
 }
-.card-one{
-    text-align: center;
+#pic1{
+    height: 45%;
+}
+#card-one{
+      display:flex;
+     margin-top: 50px auto;
+     justify-content:space-between;
+     align-items: center; 
+
+     text-align: center;
+    text-justify: auto;
+    width: 30%;
+    border: rgb(11, 11, 11); 
+
 }
 .card-two{
     text-align: center;
+    width: 30%;
 }
 .card-three{
     text-align: center;
+    width: 30%;
 }
