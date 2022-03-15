@@ -18,13 +18,20 @@ p{
     text-align:justify;
     text-align: center;
 }
+
+.btn {
     
+    height: 21px;
+    width: 99px;
+    border-radius: 10px;
+    background-color: rgb(106, 117, 220);
+}
   
-.button{
-    height: auto;
-    width: auto;
-    border-radius: 7%;
-    background-color:rgb(111, 205, 17);
+.btn2{
+    height: 37px;
+    width: 96px;
+    border-radius: 93px;
+    background-color:rgb(241, 173, 158);
     text-decoration: none;
 }
 .page-one{
@@ -85,7 +92,7 @@ p{
 #card{
     justify-content: center;
     display: flex;
-    margin: %; 
+     
 }
 #pic1{
     height: 45%;
